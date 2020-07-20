@@ -1,3 +1,8 @@
 Day1
 
 git
+
+push
+
+commit
+
